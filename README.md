@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am looking for a job as Data Analyst junior due to my experience but i would be willing to collaborate with others professionals als volunteer in order to improve my skills,as well.
+
 <!--
 **AntonSobrinoLopez/AntonSobrinoLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
