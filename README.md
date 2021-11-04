@@ -4,6 +4,7 @@ I am looking for a job as Data Analyst with a junior profile due to my experienc
 
 Although I don't have experience as data analysts or data Science but i have been working all my life with data, managing huge amount of registers
 
+![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/Anton/111)
 <!--
 **AntonSobrinoLopez/AntonSobrinoLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
