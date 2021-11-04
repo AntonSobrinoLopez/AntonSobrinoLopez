@@ -5,4 +5,7 @@ I am looking for a job as Data Analyst with a junior profile due to my experienc
 Although I don't have much experience as data analysts or data Science but i have been working all my life with data, managing huge amount of registers
 
 
-![python-fet](https://user-images.githubusercontent.com/76064517/140334057-2f8a5ac5-3d90-4fff-abcd-648affe7d3e9.jpg)
+![image](D:\IT_Academics\Data_Science\00000_titul\python-high.jpg)
+![image](D:\IT_Academics\Data_Science\00000_titul\sql-server-_-t-sql-high.jpg)
+![image](D:\IT_Academics\Data_Science\00000_titul\power-bi-medium.jpg)
+
