@@ -40,12 +40,7 @@ Tools
     
     contact
     
-    <div>
-        <a href="https://github.com/AntonSobrinoLopez"><img src="https://camo.githubusercontent.com/e8bd8ab49752ebb6f3eb5fae68bb6dcb2811c88409abbbfe421cb7939cacec65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6a6573757373616e74616e613f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub JesusSantana" data-canonical-src="https://img.shields.io/github/followers/jesussantana?label=follow&amp;style=social" style="max-width: 100%;"></a>
-        <a href="https://www.linkedin.com/in/anton-sobrino-bcn/" rel="nofollow"><img src="https://camo.githubusercontent.com/02063aa93e7e6d36da24e671c98dafbc1de3916cbf6a9492357e3589268f7a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573757353616e74616e612d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f636875732d73616e74616e612f" alt="Linkedin: JesusSantana" data-canonical-src="https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/chus-santana/" style="max-width: 100%;"></a>
-        <a href="mailto:antonsobrinolopez@outlook.com"><img src="https://camo.githubusercontent.com/4a21774b9d6abd72ff3f8f2abf20cb44d95ea2c8c19b273b9df62a33266d087e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-    </div> 
-    
+
     
     
 
