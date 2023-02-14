@@ -37,11 +37,13 @@ Tools
             <img src="https://img.shields.io/badge/phpstorm-143?style=flat&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
             <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white">
             <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
-            <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white">
-            
+            <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white"> 
         </p>
     </div>
- 
+    
+<hr>
+
+Contact me
 
     
     
