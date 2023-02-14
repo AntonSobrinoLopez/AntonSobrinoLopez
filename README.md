@@ -35,11 +35,7 @@ Tools
             <img src="https://img.shields.io/badge/-PM2-blue?style=flat&logo=-PM2-blue?style&logoColor=white"> 
             <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white">
     </div>
-    
-    <hr>
-    
-    contact
-    
+ 
 
     
     
