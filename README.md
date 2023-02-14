@@ -6,7 +6,7 @@
 
 <hr><hr/>
   
- <img src="D:\CV\Grafica en html\1.png">
+ <img src="1.png" alt="bombeta">
 
 
 
