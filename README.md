@@ -4,7 +4,7 @@
 
 👨‍🔬 I am graduated  at <a href="https://inkorformacion.com/" Target="_blank" > inkorformacion <a/> Programming with object-oriented laguages and relational DDBB
 
-<hr><hr/>
+<hr>
   
 Technologies
 
@@ -21,7 +21,7 @@ Technologies
             <img alt ="SQL" src="https://img.shields.io/badge/SQL-%23323330.svg?style=flat&logo=sql&logoColor=%23F7DF1E"></li>
     </div>
 
-<hr><hr/>
+<hr>
 
 
 
