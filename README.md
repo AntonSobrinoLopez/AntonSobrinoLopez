@@ -5,6 +5,8 @@
 👨‍🔬 I am graduated  at <a href="https://inkorformacion.com/" Target="_blank" > inkorformacion <a/> Programming with object-oriented laguages and relational DDBB
 
 <hr><hr/>
+  
+ <img src="D:\CV\Grafica en html\1.png">
 
 
 
