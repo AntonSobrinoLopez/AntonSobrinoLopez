@@ -33,8 +33,6 @@ Tools
             <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
             <img src="https://img.shields.io/badge/Jupyter-0089D6?style=flat&logo=Jupyter-0089D6?style&logoColor=white"/>
             <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-            <img src="http://img.shields.io/badge/-RStudio-3776AB?style=flat&logo=rstudio&logoColor=white">
-            <img src="https://img.shields.io/badge/phpstorm-143?style=flat&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
             <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white">
             <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
             <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white"> 
